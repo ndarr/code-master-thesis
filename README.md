@@ -7,7 +7,7 @@ Repository referencing all code parts for the thesis "Ranking automatic and huma
 - [pairwise-preference-learning](https://github.com/ndarr/pairwise-preference-learning)
 
 # Poem Regression
-- [BERT Poem Regressor] (https://github.com/ndarr/bert-poem-regressor)
+- [BERT Poem Regressor](https://github.com/ndarr/bert-poem-regressor)
 
 # Corpus and Generators 
 - [Structured Adversary](https://github.com/harsh19/Structured-Adversary)
