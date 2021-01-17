@@ -16,7 +16,7 @@ Repository referencing all code parts for the thesis "Ranking automatic and huma
 - GPT-2 ()
 - TruePoetry
 - Deep-speare
-- Hafez
+- [Hafez](https://github.com/ndarr/hafez-poem-generation-wrapper)
 - [N-Gram model](https://github.com/ndarr/ngram-poetry-generator)
 
 - *TODO: Add references as last step*
