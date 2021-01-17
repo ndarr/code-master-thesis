@@ -2,7 +2,7 @@
 Repository referencing all code parts for the thesis "Ranking automatic and human generated poetry with pairwise preference learning methods in a crowd sourcing environment"
 # Pairwise Preference Dataset
 - [Amazon MTurk Templates](https://github.com/ndarr/mturk-poem-pairwise-preference-templates/tree/main)
-- [pairwise-pref-dataset (tbd)](tbd.)
+- [poem-oairwise-preference-dataset](https://github.com/ndarr/poem-oairwise-preference-dataset)
 # Pairwise Preference Learning
 - [pairwise-preference-learning](https://github.com/ndarr/pairwise-preference-learning)
 
