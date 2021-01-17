@@ -17,6 +17,6 @@ Repository referencing all code parts for the thesis "Ranking automatic and huma
 - TruePoetry
 - Deep-speare
 - Hafez
-- [N-Gram model (tbd.)](tbd)
+- [N-Gram model](https://github.com/ndarr/ngram-poetry-generator)
 
 - *TODO: Add references as last step*
