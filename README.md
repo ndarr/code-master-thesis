@@ -9,14 +9,8 @@ Repository referencing all code parts for the thesis "Ranking automatic and huma
 # Poem Regression
 - [BERT Poem Regressor](https://github.com/ndarr/bert-poem-regressor)
 
-# Corpus and Generators 
-- [Structured Adversary](https://github.com/harsh19/Structured-Adversary)
-- [English Gutenberg Corpus (large)](https://github.com/anonymous-poetrybot-386/eacl-metrical-tagging-in-the-wild)
-- [LSTM (tbd)]()
-- GPT-2 ()
-- TruePoetry
-- Deep-speare
-- [Hafez](https://github.com/ndarr/hafez-poem-generation-wrapper)
+# Generators 
+- GPT-2 tbd ()
+- [Deep-speare Wrapper](https://github.com/ndarr/deepspeare-wrapper)
+- [Hafez API Wrapper](https://github.com/ndarr/hafez-poem-generation-wrapper)
 - [N-Gram model](https://github.com/ndarr/ngram-poetry-generator)
-
-- *TODO: Add references as last step*
